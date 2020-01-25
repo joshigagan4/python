@@ -1,0 +1,10 @@
+n=int(input("Fibonacci series upto which no :"))
+x=0
+y=1
+print("Fibonacci series is:")
+while(x<=n):
+    print(x)
+    z=x+y
+    x=y
+    y=z
+
