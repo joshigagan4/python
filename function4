@@ -1,0 +1,6 @@
+def details(city="Indore"):
+    print("I live in " ,city)
+details("Delhi")
+details("Ahemdabad")
+details()
+details("Mumbai")
