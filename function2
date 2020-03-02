@@ -1,0 +1,4 @@
+ def test1(*name):
+    print(name[0])
+    print(name[1])
+test1('a','b','c')  
