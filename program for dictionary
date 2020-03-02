@@ -1,0 +1,5 @@
+dict1={'College':'AITR','Branch':'CSE','Year':2}
+print(dict1)
+print(dict1['Branch'])
+dict1['College']='Acropolis'
+print(dict1)
