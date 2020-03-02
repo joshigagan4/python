@@ -1,0 +1,7 @@
+def Sample():
+    print("Hello")
+def add(x,y):
+    z=x+y
+    print(z)
+Sample()
+add(3,4)
